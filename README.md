@@ -64,7 +64,7 @@ ComfyUI-EsesCompositionGuides/
 
 ## Usage
 
-Connect an `image` to the input. You'll have to press 'Run' once, then the node will display a preview of the image. Use the widgets on the node to toggle and configure the various compositional guides. All changes will be reflected instantly in the preview area. The original image is passed through the `image` output for use in the rest of your workflow.
+Connect an `image` to the input. You'll have to press 'Run' once and then the node will display a preview of the image. Use the widgets on the node to toggle and configure the various compositional guides. All changes will be reflected instantly in the preview area. The original image is passed through the `image` output for use in the rest of your workflow.
 
 ## Inputs
 
