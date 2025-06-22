@@ -46,7 +46,7 @@ If you have ComfyUI installed, you don't need any extra dependencies!
     ```
 2.  **Clone this repository:**
     ```
-    https://github.com/quasiblob/ComfyUI-EsesCompositionGuides.git
+    git clone https://github.com/quasiblob/ComfyUI-EsesCompositionGuides.git
     ```
 3.  **Restart ComfyUI:**
     * After restarting, the "Eses Composition Guides" node will be available in the "Eses Nodes/Visualization" category.
