@@ -146,8 +146,16 @@ app.registerExtension({
             };
 
             node.onDrawForeground = function(ctx) {
+                
+                // Check if the node is collapsed - use flags property
+                if (this.flags && this.flags.collapsed) {
+                    return;
+                }
+
+
                 const drawArea = getDrawArea();
                 if (!drawArea) return;
+
 
                 if (this.imagePreview) {
                     const imageRatio = this.imagePreview.width / this.imagePreview.height;

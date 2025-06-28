@@ -6,8 +6,8 @@
 # A non-destructive visualization tool for ComfyUI. It overlays various
 # compositional guides onto a preview image without altering the output.
 #
-# Version: 1.0.0
-# License: (Not yet specified)
+# Version: 1.0.1
+# License: See LICENSE.txt
 #
 # ==========================================================================
 
