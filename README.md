@@ -3,6 +3,10 @@
 ![Eses Composition Guides Node Screenshot](docs/composition_guides.png)
 
 
+> [!CAUTION]
+> Before dowloading and using the contents of this repository, please read the LICENSE.txt and the disclaimer - Thank you!
+
+
 ## Description
 
 The 'Eses Composition Guides' is a ComfyUI custom node designed as a comprehensive, non-destructive visualization tool. It overlays a wide array of customizable compositional guides onto a live preview of your image, allowing for precise analysis and planning without altering the image that is passed through the workflow.
